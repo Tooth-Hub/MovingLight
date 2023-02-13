@@ -1,0 +1,26 @@
+{
+    "format_version": 1,
+    "tooth": "github.com/tooth-hub/movinglight",
+    "version": "1.9.1",
+    "dependencies": {
+            "github.com/tooth-hub/liteloaderbds": [
+				["2.9.x"]
+			]
+	},
+    "information": {
+        "name": "MovingLight",
+        "description": "Enjoy moving lights on bedrock edition servers!",
+        "author": "RedbeanW",
+        "license": "MIT",
+        "homepage": "https://github.com/Redbeanw44602/MovingLight"
+    },
+    "placement": [
+        {
+            "source": "MovingLight.dll",
+            "destination": "plugins/MovingLight.dll"
+        }
+    ],
+	"possession": [
+		"plugins/MovingLight/"
+	]
+}
