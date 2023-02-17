@@ -4,7 +4,7 @@
     "version": "1.9.1",
     "dependencies": {
             "github.com/tooth-hub/liteloaderbds": [
-				["2.9.x"]
+				["2.10.x"]
 			]
 	},
     "information": {
